@@ -30,7 +30,7 @@ $ cargo run yoonge README.md
 
 ## 📄 License
 
-Number Guessing game is [MIT-licensed](./LICENSE).
+Minigrep is [MIT-licensed](./LICENSE).
 
 
 <!-- ## 🔗 Links -->
