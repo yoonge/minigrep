@@ -15,7 +15,7 @@ $ git clone https://github.com/yoonge/minigrep.git
 
 $ cd minigrep
 
-$ cargo run yoonge README.md
+$ cargo run software LICENSE
 ```
 
 
