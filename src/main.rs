@@ -7,7 +7,7 @@ fn main() {
         println!("Problem while parsing arguments: {}", err);
         process::exit(1);
     });
-    println!("Search for {} in file {}, with contents:", config.query, config.filename);
+    println!("Search for {} in file {}:", config.query, config.filename);
 
     if let Err(e) = run(config) {
         println!("Application error: {}", e);
